@@ -6,7 +6,10 @@
 <br>
 
 <p align="center">
-  <img src="assets/wordmark.png" alt="Apomorph" width="440">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark.png">
+    <img src="assets/wordmark-on-black.png" alt="Apomorph" width="440">
+  </picture>
 </p>
 
 <p align="center"><b>THE OPEN BASE FIGURE, EVOLVED.</b></p>
